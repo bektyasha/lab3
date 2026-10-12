@@ -1,0 +1,35 @@
+{
+  "linear_regression": {
+    "test_mse": null
+  },
+  "classification": {
+    "own_logistic": {
+      "roc_auc": null,
+      "accuracy": null,
+      "precision": null,
+      "recall": null,
+      "f1": null
+    },
+    "logistic_regression": {
+      "roc_auc": null,
+      "accuracy": null,
+      "precision": null,
+      "recall": null,
+      "f1": null
+    },
+    "decision_tree": {
+      "roc_auc": null,
+      "accuracy": null,
+      "precision": null,
+      "recall": null,
+      "f1": null
+    },
+    "knn": {
+      "roc_auc": null,
+      "accuracy": null,
+      "precision": null,
+      "recall": null,
+      "f1": null
+    }
+  }
+}
